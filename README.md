@@ -1,0 +1,2 @@
+# javaproject
+Typing Speed Calculator
